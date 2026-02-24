@@ -1,0 +1,4 @@
+index.db
+__pycache__/
+*.pyc
+.weekly_projects_last_run

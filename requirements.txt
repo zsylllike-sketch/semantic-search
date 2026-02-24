@@ -1,0 +1,4 @@
+sentence-transformers==3.4.1
+numpy==2.2.3
+pdfplumber==0.11.4
+rich==13.9.4
